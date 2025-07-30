@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+# Environments
+.env
+.venv
+# Model checkpoints
+models/
+detectors/weights/
+# OS
+.DS_Store
+Thumbs.db
+EOF
