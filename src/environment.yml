@@ -1,0 +1,11 @@
+name: auto_labeling
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pillow
+  - numpy
+  - tqdm
+  - opencv
+  - transformers
+prefix: C:\Users\leeji\anaconda3\envs\auto_labeling
